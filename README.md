@@ -5,8 +5,8 @@ The original implementation for SIMAS. Good for general purpose or web developme
 [SIMASJS](https://www.github.com/turrnut/simas)
 
 ## CMAS
-Currently in development, good for low level programming. <br>
-
+Interpreter written in C. Currently in development, Used for low level programming. <br>
+[CMAS](https://www.github.com/tuvalutorture/SIMAS)
 
 ## pySIMAS
 Good for embedded devices like Raspberr... nvm it's gone. <br>
