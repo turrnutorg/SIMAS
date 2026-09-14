@@ -11,4 +11,4 @@ Interpreter written in C. Used for low level programming. <br>
 
 ## Objective-CMAS
 SIMAS brought to Objective C. Low level performance with an extensible architecture and compatibility. <br>
-[Objective-CMAS](https://www.github.com/tuvalutorture/SIMAS)
+[Objective-CMAS](https://www.github.com/tuvalutorture/objective-cmas)
