@@ -80,6 +80,7 @@ Objective-CMAS-GUI (referred to here as just Objective-CMAS for the sake of brev
 * Objective-CMAS now features *parse-time argument validation*, meaning you can't get away with putting a string constant where a variable name should go.
 * Objective-CMAS, for the first time in SIMAS history, has *scoping*. Labels and variables are now scoped within blocks, the main type being functions (so now any temp vars in a function won't pollute the global namespace).
 * Objective-CMAS is even more robust and memory safe.
+* Objective-CMAS supports structures, allowing you to organise variables into object-like containers.
 ### Weaknesses
 * (almost) All of the above from base Objective-CMAS.
 * The GUI target requires Mac OS X 10.6's features, the XIB file requires macOS 10.14 Mojave running Xcode 10 to open, and requires additional work to compile it on lower Xcode versions (i.e. adding explicit `@synthesize` directives in Xcodes <4 because the code relies on auto-synthesis).
