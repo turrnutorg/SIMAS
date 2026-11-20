@@ -3,7 +3,7 @@ Want to make your own implementation? Check out the [official specifications](ht
 
 # Known Implementations
 
-## Objective-CMAS
+## Objective-CMAS (Written by: [tuvalutorture](https://github.com/tuvalutorture))
 ### "Best" version
 #### Objective-CMAS-GUI (current version)
 SIMAS brought to Objective-C. Low-level performance with a highly extensible architecture, compatible with nearly all computers running Mac OS X; now with a GUI!<br>
@@ -12,12 +12,12 @@ SIMAS brought to Objective-C. Low-level performance with a highly extensible arc
 SIMAS brought to Objective C. Low level performance with an extensible architecture and compatibility. Archived in favour of Objective-CMAS GUI<br>
 [Objective-CMAS](https://www.github.com/tuvalutorture/objective-cmas)
 
-## SIMASJS
+## SIMASJS (Written by: [turrnut](https://github.com/turrnut))
 ### original version
 The original implementation for SIMAS, written in JavaScript. Good for general purpose or web development.<br>
 [SIMASJS](https://www.github.com/turrnut/simas)
 
-## CMAS
+## CMAS (Written by: [tuvalutorture](https://github.com/tuvalutorture))
 SIMAS Interpreter written in The C Programming Language. Used for low level programming; largely replaced by Objective-CMAS. <br>
 [CMAS](https://www.github.com/turrnutorg/CMAS)
 
